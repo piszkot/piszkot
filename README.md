@@ -7,7 +7,7 @@ My name is Przemysław. In March 2026, I completed Common Core at 42Warsaw, and 
 
 ## 📁 Structure
 
-Each file contains its own documentation — notes, comments, and usage tips are written directly in the source files.
+Each file contains its own documentation — notes, comments, and usage tips are written directly in the source files. Sometimes there may also be an additional README file in a specific repository.
 
 ## 🔧 Programming languages:
 There are quite a few of them, so each repository has the language used in its name to make it easier to find your way around.
