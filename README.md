@@ -1,16 +1,13 @@
-## Hi there 👋
+#### =================================================
+# 🚀 Welcome to my portfolio. 
+#### =================================================
+My name is Przemysław. In March 2026, I completed Common Core at 42Warsaw, and I admit it was quite a demanding challenge, though also very rewarding. I've included various pieces here that both demonstrate my programming skills, which I strive to improve daily, and serve as a repository of code I can use at any time.
 
-<!--
-**piszkot/piszkot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+## 📁 Structure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Each file contains its own documentation — notes, comments, and usage tips are written directly in the source files.
+
+## 🔧 Programming languages:
+There are quite a few of them, so each repository has the language used in its name to make it easier to find your way around.
