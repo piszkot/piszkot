@@ -1,4 +1,4 @@
-![header](https://img.shields.io/badge/Portfolio-1a2237?style=for-the-badge)
+![header](https://img.shields.io/badge/Portfolio-2a3247?style=for-the-badge)
 
 ==========================================
 # ⧉ Welcome to my portfolio
