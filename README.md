@@ -5,8 +5,8 @@
 ==========================================
 
 ### My name is Przemysław.
-In March 2026, I completed Common Core at 42Warsaw.
-It was a demanding challenge - but also very rewarding.
+In March 2026, I completed Common Core at 42Warsaw.  
+It was a demanding challenge - but also very rewarding.  
 
 This repository includes projects that:
 - demonstrate my programming skills
@@ -17,8 +17,8 @@ This repository includes projects that:
 
 ## ⌬ Structure
 
-Each file contains its own documentation.
-Notes, comments, and usage tips are written directly in the source files.
+Each file contains its own documentation.  
+Notes, comments, and usage tips are written directly in the source files.  
 
 In some cases:
 - an additional README may be included
@@ -28,12 +28,12 @@ In some cases:
 
 ## ⌬ Programming Languages
 
-There are multiple languages used across projects.
-Each repository name includes the language used making navigation easier and more intuitive.
+There are multiple languages used across projects.  
+Each repository name includes the language used making navigation easier and more intuitive.  
 
 ![line](https://img.shields.io/badge/-f38ba8?style=flat-square)
 
 ## ⌬ Compatibility
 
-Designed primarily for Ubuntu systems.
-Other environments may require configuration adjustments.
+Designed primarily for Ubuntu systems.  
+Other environments may require configuration adjustments.  
