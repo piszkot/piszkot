@@ -4,7 +4,8 @@
 # ⧉ Welcome to my portfolio
 ==========================================
 
-## My name is Przemysław.
+### My name is Przemysław.  
+<br>
 In March 2026, I completed Common Core at 42Warsaw. It was a demanding challenge - but also very rewarding.  
 
 This repository includes projects that:
