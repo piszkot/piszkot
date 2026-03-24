@@ -6,7 +6,7 @@
 
 ## My name is Przemysław.  
 <br>
-In March 2026, I completed Common Core at 42Warsaw. It was a demanding challenge - but also very rewarding. I have extensive professional experience as a sales manager, but for the past few years I have been independently acquiring knowledge in programming, which brings me great enjoyment.  
+In March 2026, I completed Common Core at 42Warsaw. It was a demanding challenge - but also very rewarding. I have extensive professional experience as a sales manager, but for the past few years I have been independently acquiring knowledge in programming, which brings me great enjoyment. I feel like a fish out of water if I’m not learning something.  
 <br><br>
 
 This repository includes projects that:
