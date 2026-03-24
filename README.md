@@ -1,7 +1,7 @@
-![header](https://img.shields.io/badge/Portfolio-2a42a7?style=for-the-badge)
+![header](https://img.shields.io/badge/Portfolio-1a2237?style=for-the-badge)
 
 ==========================================
-# ⟁ Welcome to my portfolio
+# ⧉ Welcome to my portfolio
 ==========================================
 
 ⌁ My name is Przemysław.
@@ -15,7 +15,7 @@
 
 ![line](https://img.shields.io/badge/-89b4fa?style=flat-square)
 
-## ⟁ Structure
+## ⌬ Structure
 
 ⌁ Each file contains its own documentation
 ⟡ notes, comments, and usage tips are written directly in the source files
@@ -26,7 +26,7 @@
 
 ![line](https://img.shields.io/badge/-cba6f7?style=flat-square)
 
-## ⟁ Programming Languages
+## ⌬ Programming Languages
 
 ⌁ There are multiple languages used across projects
 ⟡ Each repository name includes the language used
@@ -34,7 +34,7 @@
 
 ![line](https://img.shields.io/badge/-f38ba8?style=flat-square)
 
-## ⟁ Compatibility
+## ⌬ Compatibility
 
 ⌁ Designed primarily for Ubuntu systems
 ⟡ Other environments may require configuration adjustments
